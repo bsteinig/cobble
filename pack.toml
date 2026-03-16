@@ -1,0 +1,13 @@
+name = "CobbledOn"
+author = "me"
+version = "1.6.7"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "213cedfa252e797cabe22eedf9cd0beda28032f5a379ea3610e76db9dede1a37"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"
