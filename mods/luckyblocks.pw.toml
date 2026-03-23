@@ -1,6 +1,6 @@
 name = "Lucky Blocks (Fabric)"
 filename = "LuckyBlocks-1.6.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1x4VJbG6/versions/JTpQAfDf/LuckyBlocks-1.6.1.jar"
