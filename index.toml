@@ -171,6 +171,11 @@ hash = "46e175b662617498d6f250e57f3f66b1b39a40252933b3466e1ff6a7f6209725"
 metafile = true
 
 [[files]]
+file = "mods/lucky-block-cobblemon.pw.toml"
+hash = "ad48b25e3bd81818bfde6f323d336d2e8972fabda8fb57361859e8ae20d811e0"
+metafile = true
+
+[[files]]
 file = "mods/luckyblocks.pw.toml"
 hash = "e5498d73e488f20ec40c49e0fadd86d1f99431627626c97b20e3bc7556baf51b"
 metafile = true
