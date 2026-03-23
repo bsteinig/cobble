@@ -16,6 +16,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "80472ed95c490b2e5a828c769f30a1b4ed2b8c502ac2d0f577f1c838aaf7ec5e"
 metafile = true
@@ -126,6 +131,11 @@ hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "95499bb1cfcbfc2a2e2734a7034de0f35c17058048866fdf17fc3a241d9f689e"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "de9842a74bad2677a92f96157171b3108dcacb6a517d395006a1f158d5f46bbb"
 metafile = true
@@ -133,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "76a2560989102413693bbfbea83570287b3dce4f6ed40dc69aacbd3268633fe7"
 metafile = true
 
 [[files]]
@@ -153,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "46e175b662617498d6f250e57f3f66b1b39a40252933b3466e1ff6a7f6209725"
+metafile = true
+
+[[files]]
+file = "mods/luckyblocks.pw.toml"
+hash = "e5498d73e488f20ec40c49e0fadd86d1f99431627626c97b20e3bc7556baf51b"
 metafile = true
 
 [[files]]
@@ -201,6 +221,21 @@ hash = "f68acce954857c181b966ac900d7dc16c02f0503d2c48a78b7e2ed9d21469c7b"
 metafile = true
 
 [[files]]
+file = "mods/orimon.pw.toml"
+hash = "1626852ce2ad75573c5a774e56882ac0c663981bd5d49bfde355f77f4400e207"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "a3620a86ddc52c729ea4091ab2a526572ce0c7847462dc5bdb867e2994d0f3c1"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
@@ -216,13 +251,33 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/powah-refabric.pw.toml"
+hash = "bc4e69ae629bc37b8867265468f6f35392cf6b99e8c705ed2b8a020b02ebd379"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-jei-integration.pw.toml"
+hash = "dc9ddff01f1ba73066b63ba6d5e35ee83a969ce00ef2c4e0806fff9b74b3b36d"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "31fbb8df66251e3270f35d0f617ef17f4032cdc68d3a5fe031d5047bc2a3946d"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "0d51bf2566f8057955226b2bc0ddf7b404d581304dcf163139e1b4fb6ac2fc7e"
+metafile = true
+
+[[files]]
+file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
+hash = "27f2a11921312246d216d0c0c021f9c2602e5a06fb17ba6f8c12ee8542d8826a"
 metafile = true
 
 [[files]]
@@ -273,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "5be05538347e59b65357ecb31c28c90edd3769309fa864222d7116ccd7e8a446"
 metafile = true
 
 [[files]]

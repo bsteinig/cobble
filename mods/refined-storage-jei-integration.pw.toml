@@ -1,0 +1,13 @@
+name = "Refined Storage - JEI Integration"
+filename = "refinedstorage-jei-integration-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VzR5wiLo/versions/cnoKYY2R/refinedstorage-jei-integration-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "d6fd31a62af6792d5a3617792361c0a7553d6ca24849976305d3a3d6458bcb9e4aa79700b10223983365925bf9b12ba61c1e70621c7a73444cda580bad1c7901"
+
+[update]
+[update.modrinth]
+mod-id = "VzR5wiLo"
+version = "cnoKYY2R"

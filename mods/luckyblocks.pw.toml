@@ -1,0 +1,13 @@
+name = "Lucky Blocks (Fabric)"
+filename = "LuckyBlocks-1.6.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1x4VJbG6/versions/JTpQAfDf/LuckyBlocks-1.6.1.jar"
+hash-format = "sha512"
+hash = "355becea5bd6ac937e928b7c85aa861f9733c4d4b924600259fb79e53b7b520cca65c90b3ac6ccc253e68dbd55f724ad3f769d3584e6d9c8b3a4c9a6f6e33b9e"
+
+[update]
+[update.modrinth]
+mod-id = "1x4VJbG6"
+version = "JTpQAfDf"

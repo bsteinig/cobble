@@ -1,0 +1,13 @@
+name = "Orimon"
+filename = "orimon-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EbvvpFFd/versions/e96fQasO/orimon-1.0.jar"
+hash-format = "sha512"
+hash = "daaf8dab170d62169ce3014ea99a28ab7bbad4c4a3f044e32f69b35a9f75ee6f8f6af0722df245234d03a1308117e1b443fc33c51ebce80fb0c0f95ceca2842b"
+
+[update]
+[update.modrinth]
+mod-id = "EbvvpFFd"
+version = "e96fQasO"

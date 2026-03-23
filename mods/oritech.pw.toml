@@ -1,0 +1,13 @@
+name = "Oritech"
+filename = "oritech-fabric-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4sYI62kA/versions/AYK0aVhV/oritech-fabric-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "9fca91aeb48e07bf5a156d5fb936653eec3b576c9f757375d72fb13a46322f28e44055b6990dc65558164b176bc6af2cccb1d7cca97284f2329bdcf363afd88a"
+
+[update]
+[update.modrinth]
+mod-id = "4sYI62kA"
+version = "AYK0aVhV"
