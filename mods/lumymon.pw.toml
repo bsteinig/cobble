@@ -1,0 +1,13 @@
+name = "LumyMon"
+filename = "LumyMon-0.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QAX8WiBc/versions/aYDCtzaa/LumyMon-0.6.4.jar"
+hash-format = "sha512"
+hash = "6f722028ed1705aeb39f433a83dacce22dd0e7af4553594863ee1fa97df32afca7e6051204e0208f399a9cd4d9750b6b082350b83b985b3e96f56bd735fc99e6"
+
+[update]
+[update.modrinth]
+mod-id = "QAX8WiBc"
+version = "aYDCtzaa"

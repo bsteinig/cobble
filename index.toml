@@ -5,6 +5,11 @@ file = ".github/copilot-instructions.md"
 hash = "f0459c741fcb4da1f65411abc40b6ab16a90aff5c9b41f49c3aa7a9e1a9a1a12"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "01174ec973f9c2267f4d6ae6040941a3e764af58f9fa0b0a9f2914ce5630d728"
 metafile = true
@@ -50,6 +55,21 @@ hash = "0c345c80310a4bd58c757e43d6060338a85d34eaffcb674a6e9cbf22ecbc9cb8"
 metafile = true
 
 [[files]]
+file = "mods/catch-indicator.pw.toml"
+hash = "72f9de8c95f2391dc7414f94cc9defc34aaa3d275fb296e2f3bf46b11fdfd917"
+metafile = true
+
+[[files]]
+file = "mods/catch-rate-display.pw.toml"
+hash = "b497cc200583bafb4a01547bd8bfc15f729cf497437ba96f319feec5bea79f6d"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "4bc328bd27151f16af8b66bf8a98dc8b255936058c011046a327f9651a17eec4"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -70,6 +90,16 @@ hash = "0b1740cc342248a7bf917a147d6b8e852a9253dfbcfe180f7cf50f97bf6d646e"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-journey-mounts.pw.toml"
+hash = "6f434aa75689237a62052e70721a317f2dae34bc52be92ee1e3eab84bf5cce8a"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "25fec29bb661c76e979cfe6733397ee1e36c154ab7ab1601ef08e1e99c92200c"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "eb51c053d004eafca2bca4cb91f9fedcee372fdf78c89fbbc6914c0fd103fc99"
 metafile = true
@@ -82,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonraiddens.pw.toml"
+hash = "6d39ee31d3dcc2f6989b17c4146f24d74272ea3c7731f9e1ae926940b46694d8"
 metafile = true
 
 [[files]]
@@ -135,6 +170,11 @@ hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "95499bb1cfcbfc2a2e2734a7034de0f35c17058048866fdf17fc3a241d9f689e"
 metafile = true
@@ -180,6 +220,21 @@ hash = "1589501594229a77e0b04e645f5e1202dbef687c49818ad73f10a3ee07a4ddc2"
 metafile = true
 
 [[files]]
+file = "mods/lumymon.pw.toml"
+hash = "ff3e358e03d2b3b13ba86c3e64e104dc29636d1dc73cd964bba49a47020d1f8f"
+metafile = true
+
+[[files]]
+file = "mods/mellomons.pw.toml"
+hash = "38ea5be79fddfe379f475a7793c2ec222262e098b3d23b60584445660445bb64"
+metafile = true
+
+[[files]]
+file = "mods/missingmons-cobblemon.pw.toml"
+hash = "b5fd0f5908a1ba4703edae2e485553d0cdfacdaf95f8ba63f0849ea5035545c2"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
@@ -202,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
+metafile = true
+
+[[files]]
+file = "mods/navas-zamega.pw.toml"
+hash = "e7184e9b3c1efe68a506c3210b201f00b12b8128fd8057b4b006b01ba02ff9ef"
 metafile = true
 
 [[files]]
@@ -265,6 +325,16 @@ hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
 metafile = true
 
 [[files]]
+file = "mods/rctapi.pw.toml"
+hash = "bbfc6a83fafa4e25f3033c09eb23bb342ee99193f8e5c5d848244ab3fcfa27e6"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "c40498e73b9866f2b8231678742b4078623debedb03f19b19326a64d7683d69b"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-jei-integration.pw.toml"
 hash = "dc9ddff01f1ba73066b63ba6d5e35ee83a969ce00ef2c4e0806fff9b74b3b36d"
 metafile = true
@@ -292,6 +362,16 @@ metafile = true
 [[files]]
 file = "mods/swingthrough.pw.toml"
 hash = "2f05b23513f7682101e2ab609964833f1b4e8557a3c9b272f7c51d9dfa7ad254"
+metafile = true
+
+[[files]]
+file = "mods/tdmon.pw.toml"
+hash = "aa059ef099fa7af8faa41cb9e5b157ae8a42cbb1d60b4daf608dda27345b5e67"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
