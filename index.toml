@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/copilot-instructions.md"
+hash = "f0459c741fcb4da1f65411abc40b6ab16a90aff5c9b41f49c3aa7a9e1a9a1a12"
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "01174ec973f9c2267f4d6ae6040941a3e764af58f9fa0b0a9f2914ce5630d728"
 metafile = true
@@ -168,11 +172,6 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "46e175b662617498d6f250e57f3f66b1b39a40252933b3466e1ff6a7f6209725"
-metafile = true
-
-[[files]]
-file = "mods/lucky-block-cobblemon.pw.toml"
-hash = "ad48b25e3bd81818bfde6f323d336d2e8972fabda8fb57361859e8ae20d811e0"
 metafile = true
 
 [[files]]

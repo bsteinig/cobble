@@ -1,12 +1,12 @@
 name = "CobbledOn"
 author = "me"
-version = "3.1.6"
+version = "3.1.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "60b6485348c94cad4cbf448d5466abf36a0c50f48b12b56ccb6b996af69aaebd"
+hash = "55372545ae7147374afd6da069daee9135406d05a078b2cc8bb500043a0a64b8"
 
 [versions]
 fabric = "0.18.4"
