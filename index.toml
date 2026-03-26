@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/copilot-instructions.md"
-hash = "f0459c741fcb4da1f65411abc40b6ab16a90aff5c9b41f49c3aa7a9e1a9a1a12"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
