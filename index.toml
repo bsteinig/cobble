@@ -65,6 +65,11 @@ hash = "b497cc200583bafb4a01547bd8bfc15f729cf497437ba96f319feec5bea79f6d"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "4afbe5d16695aa241c61c67d3cc3e0b1259872f3f1380241eeb51176c78fe038"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "4bc328bd27151f16af8b66bf8a98dc8b255936058c011046a327f9651a17eec4"
 metafile = true
